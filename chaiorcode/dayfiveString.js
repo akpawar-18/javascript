@@ -29,4 +29,4 @@ console.log(url.includes("tttp"));
 console.log(gameName.split("-"));
 
 let text = "5";
-console.log(text.padEnd(4,"1"));
+console.log(text.padEnd(3,"1"));
