@@ -55,5 +55,5 @@ console.log(Array.from({name: "akshada"})); // Interesting for Interview Q
 let a1 = 100;
 let a2 = 200;
 let a3 = 300;
-console.log(Array.of(a1, a2, a3));
+console.log(Array.of(a1, a2, a3c));
 
