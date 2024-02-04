@@ -55,5 +55,16 @@ console.log(Array.from({name: "akshada"})); // Interesting for Interview Q
 let a1 = 100;
 let a2 = 200;
 let a3 = 300;
-console.log(Array.of(a1, a2, a3c));
+console.log(Array.of(a1, a2, a3));
 
+// Q. convert ignore into ingore...
+let str = "ignore";
+console.log(str);
+
+let strArray = Array.from(str);
+console.log(strArray);
+
+[strArray[1], strArray[2]] = [strArray[2], strArray[1]]
+console.log(strArray);
+
+console.log(strArray.join(""));
