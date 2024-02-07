@@ -23,7 +23,7 @@ console.log(stud[sym]);
 console.log(stud["marks"]);
 stud.email = "pqr@gmail.com";
 
-Object.freeze(stud);
+//Object.freeze(stud);
 stud.email = "efg@gamil.com";
 
 console.log(stud);
@@ -40,3 +40,13 @@ stud.greeting2 = function(){
 
 console.log(stud.greeting());
 console.log(stud.greeting2());
+
+
+
+
+
+
+
+
+
+
