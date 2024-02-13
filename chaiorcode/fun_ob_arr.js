@@ -1,7 +1,7 @@
 // functions with object & array
 // passing object in function
 
-function calculatecardprice(val1, val2, ...num) // ... (here it is a rest operator)
+function calculatecardprice(val1, val2, ...num) // ...(here it is a rest operator)
 {
     return num;
 }
@@ -31,3 +31,8 @@ return getArray[1]
 }
 //console.log(returnsecondvalue(newArray));
 console.log(returnsecondvalue([200,300,400])); // direct passing
+
+
+
+
+  
