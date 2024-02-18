@@ -62,6 +62,46 @@ console.log(addone(6));
   function addone(num) // declaration
   {
     return num + 1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   }
 
 
